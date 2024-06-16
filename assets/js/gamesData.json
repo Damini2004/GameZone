@@ -2077,7 +2077,12 @@
   "gameUrl": "Guess_The_Song",
   "thumbnailUrl": "Guess_The_Song.png"
 }
-  
+,"417":{
+  "gameTitle": "Pangram_Checker_Game",
+  "gameUrl": "Pangram_Checker_Game",
+  "thumbnailUrl": "Pangram_Checker_Game.png"
+}
+
 }
 
 
